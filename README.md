@@ -18,7 +18,7 @@ SQL – Data cleaning & querying
 Excel – Initial data preprocessing
 📁 Files Included
 📌 Netflix_Dashboard.pbix → Power BI dashboard
-📌 Netflix_Dataset.csv → Cleaned dataset
+📌 netflix_list.csv → Cleaned dataset
 📌 Screenshots/ → Dashboard previews
 
 🚀 How to Use
