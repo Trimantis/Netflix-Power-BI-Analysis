@@ -20,6 +20,7 @@ Excel – Initial data preprocessing
 📌 Netflix_Dashboard.pbix → Power BI dashboard
 📌 netflix_list.csv → Cleaned dataset
 📌 Screenshots/ → Dashboard previews
+📌 Analysis Report
 
 🚀 How to Use
 Download Netflix_Dashboard.pbix
